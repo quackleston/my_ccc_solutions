@@ -1,5 +1,3 @@
-# QUESTION 1
-
 """
 notes:
 first 3 lines: scoring of apples
@@ -11,7 +9,10 @@ second: 2-pointers
 third: 1-pointers
 each num between 0,100 inclusive
 
+extra: looked at how much time code took to run
+
 """
+
 import time
 
 lest = []
